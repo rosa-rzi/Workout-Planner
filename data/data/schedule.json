@@ -1,0 +1,34 @@
+{"workout": [
+    {
+        "exercises": [
+            {
+                "set": 3,
+                "name": "squats",
+                "rep": 1
+            },
+            {
+                "set": 3,
+                "name": "lunges",
+                "rep": 7
+            }
+        ],
+        "name": "legs",
+        "training day": "SUNDAY"
+    },
+    {
+        "exercises": [
+            {
+                "set": 1,
+                "name": "curls",
+                "rep": 5
+            },
+            {
+                "set": 2,
+                "name": "lala",
+                "rep": 4
+            }
+        ],
+        "name": "biceps",
+        "training day": "MONDAY"
+    }
+]}
