@@ -1,7 +1,7 @@
 # Workout Planner
 > Programming language: Java
 
-> Tools: JUnit, Json
+> Tools: JavaSwing, JUnit, Json
 
 > IDE: IntelliJ
 
