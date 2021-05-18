@@ -18,6 +18,19 @@ Anyone who goes to the gym would benefit from this application. Whether they're 
 ##Motivation Behind the Project
 When I first started going to the gym I had no plan or structure for my workouts. I would waste time thinking of what exercises to do next and not really knowing if I was gaining strength. Now I write out my workouts on a Google document ahead of time, but it's not efficient. For this reason I decided to make a workout planner for my project.
 
+**Application at a glance**
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rosa-rzi/Workout-Planner/blob/0bcf77134b7203792284eefe99fefd579592d324/images/Screen%20Shot%202021-05-18%20at%202.50.22%20PM.png">
+</p>
+
+<p align="center">
+  <img width="760" height="200" src="https://github.com/rosa-rzi/Workout-Planner/blob/0bcf77134b7203792284eefe99fefd579592d324/images/Screen%20Shot%202021-05-18%20at%202.50.36%20PM.png">
+</p>
+
+<p align="center">
+  <img width="760" height="160" src="https://github.com/rosa-rzi/Workout-Planner/blob/0bcf77134b7203792284eefe99fefd579592d324/images/Screen%20Shot%202021-05-18%20at%202.50.59%20PM.png">
+</p>
+
 **User Stories**
 
 - As a user, I want to be able to select a day and create a workout on my schedule
